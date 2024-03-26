@@ -176,3 +176,55 @@
 // ]
 
 // console.log(makeFriends(myFriends.firstName)); // ["Max", "Lewis", "Daniel"]
+
+
+// Exercice 13
+// Je ne sais pas faire
+
+// function findTeamPrincipal(people) {
+//   for(let i = 0; i < people.length; i++) {
+//     if(people.isTeamPrincipal === true) {
+//       return people[i];
+//     }
+//   }
+// }
+
+// let somePeople = [
+//     {
+//         firstName: 'Toto',
+//         lastName: 'Wolff',
+//         isTeamPrincipal: true
+//     },
+//     {
+//         firstName: 'Lando',
+//         lastName: 'Noris',
+//         isTeamPrincipal: false
+//     },
+//     {
+//         firstName: 'Oscar',
+//         lastName: 'Piastri',
+//         isTeamPrincipal: false
+//     },
+//     {
+//         firstName: 'Christian',
+//         lastName: 'Horner',
+//         isTeamPrincipal: true
+//     }
+// ]
+
+// console.log(findTeamPrincipal(somePeople));
+// /*
+// [
+//     {
+//         firstName: "Toto",
+//         isTeamPrincipal: true,
+//         lastName: "Wolff"
+//     },
+//     {
+//         firstName: "Christian",
+//         isTeamPrincipal: true,
+//         lastName: "Horner"
+//     }
+// ]
+// */
+
